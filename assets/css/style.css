@@ -70,4 +70,8 @@ a i {
     .deskripsi1 img {
         width: 100%;
     }
+
+    .bawah img {
+        width: 40%;
+    }
 }
