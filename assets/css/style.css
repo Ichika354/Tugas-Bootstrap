@@ -71,6 +71,14 @@ a i {
         width: 100%;
     }
 
+    .judul {
+        text-align: center;
+    }
+
+    .ket {
+        text-align: center;
+    }
+
     .bawah img {
         width: 40%;
     }
